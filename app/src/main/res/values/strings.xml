@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rickandmorty</string>
+
+    <!--  Home -->
+    <string name="home_title">Rick and Morty API</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">back</string>
+
+</resources>
