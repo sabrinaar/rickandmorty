@@ -1,6 +1,6 @@
 # Rick and Morty - Compose
 
-Obtiene los personajes de la API:  https://rickandmortyapi.com/
+Esta aplicación permite explorar los personajes de Rick and Morty usando la API pública (https://rickandmortyapi.com/). Puedes ver además información básica de cada personaje como su nombre, especie, estado y género.
  
 - Clean Arquitecture
 - MVVM
@@ -11,6 +11,6 @@ Obtiene los personajes de la API:  https://rickandmortyapi.com/
 
 # Screenshots
 
-![]()
+![](https://github.com/sabrinaar/rickandmorty/blob/master/gif/rickandmortyapi.gif)
 
 
