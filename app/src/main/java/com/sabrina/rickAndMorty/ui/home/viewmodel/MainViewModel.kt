@@ -40,7 +40,7 @@ class MainViewModel @Inject constructor
                 when (result) {
                     is Resource.Success -> {
                         state = state.copy(
-                            characters = result.data?.popularPelisList ?: emptyList(),
+                            characters = result.data?.list ?: emptyList(),
                             isLoading = false,
                             showPrevious = showPrev,
                             showNext = showNext
